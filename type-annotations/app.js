@@ -1,5 +1,5 @@
 /*
-Type Annotations, ou Anotações de Tipo, indicam o tipo de um dado. N
+Type Annotations, ou Anotações de Tipo, indicam o tipo de um dado. 
 Não é obrigatório o uso no TypeScript, mas como a linguagem é tipada, é recomendado o uso.
 
 Sintaxe:
